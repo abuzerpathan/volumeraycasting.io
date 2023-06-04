@@ -104,6 +104,17 @@ Steps to import the GIT project :
 
 
 
+
+**For Reference :** 
+**Git for ray casting algorithm :**
+
+https://github.com/GokselKUCUKSAHIN/JavaFx-Ray-Casting.git
+
+
+
+
+
+
  
 
 
