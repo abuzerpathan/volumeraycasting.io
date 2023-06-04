@@ -59,10 +59,13 @@ Steps to import the GIT project :
 
 ![AEF6B6D84F0F4131B67480AE8EC4C32B](https://github.com/abuzerpathan/volume-ray-casting/assets/135248170/c7a9b287-1236-4540-b296-5f4139065493)
 
+
+
 **4.3**  On next select option Clone URI
 
 
 ![8D540D09DE87447FA76587E5FA50844D](https://github.com/abuzerpathan/volume-ray-casting/assets/135248170/abf9e657-49af-48ea-861d-7f98774e5fec)
+
 
 
 **4.4** On Next paste the GIT Web URL and all the entries IDE will pick up.
@@ -70,6 +73,7 @@ Steps to import the GIT project :
  
 
 **4.5**  On Finish – Project will get import in STS IDE.
+
 
  
 
@@ -82,7 +86,10 @@ Steps to import the GIT project :
 **5.1**  On successful import we can see the project as below :
 
 
+
 ![E91A51E7051341768CB67084AE4557E3](https://github.com/abuzerpathan/volume-ray-casting/assets/135248170/963854a1-284e-4277-a77e-8feaee1ea20a)
+
+
 
 
 **5.2**  In order to run this application Right click on Main.java class
