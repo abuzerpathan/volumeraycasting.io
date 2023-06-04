@@ -3,7 +3,7 @@
 
 
 
-Git for ray casting algorithm :
+Git for Ray Casting Algorithm :
 
 https://github.com/GokselKUCUKSAHIN/JavaFx-Ray-Casting.git
 
@@ -31,10 +31,9 @@ https://dist.springsource.com/release/STS/index.html
  
 **Step 3.**
 
-  From the GIT site, this is how we copy GIT repo url, We can either make close by using this GIT URL or we can simply Download ZIP and import it as in already existing project in local machine.
+  From the GIT site, this is how we copy the GIT repo URL, We can either make close by using this GIT URL or we can simply Download ZIP and import it as in an already existing project in a local machine.
 
-
-Copied GIT web url:
+Copied GIT web URL:
 
   https://github.com/GokselKUCUKSAHIN/JavaFx-Ray-Casting.git
 
@@ -97,7 +96,7 @@ Steps to import the GIT project :
 ![B7A57C6D2F98416C90690E58BDAFB684](https://github.com/abuzerpathan/volume-ray-casting/assets/135248170/9e60efd8-86b5-4514-891e-46303b6b4fb0)
 
 
-**5.4** Click and drag the url to different area around the walls will get expected result as below:
+**5.4** Click and drag the URL to different area around the walls will get expected result as below:
 
 ![BBFDD24877C24B35AF3984B5A3E9A789](https://github.com/abuzerpathan/volume-ray-casting/assets/135248170/5f30f087-b362-469d-a0fa-1921d566ad0d)
 
