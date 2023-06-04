@@ -1,4 +1,4 @@
-                           ****Welcome to the volume-ray-casting****
+                           ****volume-ray-casting****
 
 
 
