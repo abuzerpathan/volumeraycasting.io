@@ -51,7 +51,7 @@ Open STS suit IDE and import the project by using the GIT URL copied above.
 
 Steps to import the GIT project :
 
-**4.1**   In STS, click on file à Import
+**4.1**   In STS, click on file then Import,
 
 **4.2**  from the import window, select GIT ; under git choose the option
 
