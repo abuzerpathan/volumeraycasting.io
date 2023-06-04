@@ -18,13 +18,13 @@ Setup  at local :
 
 Install Java JRE from here :
 
-[Java Downloads for All Operating Systems] (https://www.java.com/en/download/manual.jsp)    :  widows 64 offline version.
+[Java Downloads for All Operating Systems](https://www.java.com/en/download/manual.jsp)    :  widows 64 offline version.
 
  
 
 **Step 2.**
 
-Downloaded STS from here
+Downloaded STS from here 
 
 https://dist.springsource.com/release/STS/index.html
 
