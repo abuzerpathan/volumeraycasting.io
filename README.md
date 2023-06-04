@@ -1,4 +1,4 @@
-                                **Welcome to the volume-ray-casting**
+                           ****Welcome to the volume-ray-casting****
 
 
 
@@ -24,7 +24,7 @@ Install Java JRE from here :
 
 **Step 2.**
 
-Downloaded STS from here 
+Downloaded STS from here
 
 https://dist.springsource.com/release/STS/index.html
 
@@ -106,6 +106,29 @@ Steps to import the GIT project :
 
 
  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
