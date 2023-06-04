@@ -27,7 +27,6 @@ Install Java JRE from here :
 Downloaded STS from here
 
 https://dist.springsource.com/release/STS/index.html
-
  
  
 **Step 3.**
